@@ -45,9 +45,9 @@ Options:
   --nQkr arg (=0)       (only for --p 1/3)   #reverted clean ancilla qubits.
   --careSet arg         (only for --p 1/2/3) the care set of the circuits.
                         Can be omitted if the care set is the universal set.
-  --weightFun1 arg      (only for --p 1/2/3 and nQw > 0)the weight function of
+  --weightFun1 arg      (only for --p 1/2/3 and nQw > 0) the weight function of
                         the 1st circuit
-  --weightFun2 arg      (only for --p 1/2/3 and nQw > 0)the weight function of
+  --weightFun2 arg      (only for --p 1/2/3 and nQw > 0) the weight function of
                         the 2nd circuit
 ```
 
